@@ -3,4 +3,4 @@ In this repository you can find the screenshots of the projects that I have work
 
 <h2>*Command-Line Interface*<h2>
   ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+
